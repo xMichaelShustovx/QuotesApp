@@ -26,10 +26,10 @@ class DataService {
             let decoder = JSONDecoder()
             
             do {
-                let quotesData = try decoder.decode([Quote].self, from: data)
+                var quotesData = try decoder.decode([Quote].self, from: data)
                 
-                for q in quotesData {
-                    q.id = UUID()
+                for i in 0..<quotesData.count {
+                    quotesData[i].id = UUID()
                 }
                 
                 return quotesData

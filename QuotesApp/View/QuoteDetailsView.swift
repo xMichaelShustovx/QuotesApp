@@ -13,7 +13,6 @@ struct QuoteDetailsView: View {
     
     var body: some View {
 
-        
             ScrollView{
                 
                 VStack(alignment: .leading) {
@@ -30,7 +29,6 @@ struct QuoteDetailsView: View {
                 }
                 .padding([.leading, .bottom, .trailing])
             }
-        
     }
 }
 

@@ -16,6 +16,7 @@
 		521C71C82692F9D000F8C0CE /* DataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 521C71C72692F9D000F8C0CE /* DataService.swift */; };
 		521C71CA269300DA00F8C0CE /* QuotesModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 521C71C9269300DA00F8C0CE /* QuotesModel.swift */; };
 		52506FC02693158300772CA7 /* QuoteDetailsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52506FBF2693158300772CA7 /* QuoteDetailsView.swift */; };
+		52C271432693503A00CEE9BE /* QuoteCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52C271422693503A00CEE9BE /* QuoteCard.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		521C71C72692F9D000F8C0CE /* DataService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataService.swift; sourceTree = "<group>"; };
 		521C71C9269300DA00F8C0CE /* QuotesModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuotesModel.swift; sourceTree = "<group>"; };
 		52506FBF2693158300772CA7 /* QuoteDetailsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuoteDetailsView.swift; sourceTree = "<group>"; };
+		52C271422693503A00CEE9BE /* QuoteCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuoteCard.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +90,7 @@
 			children = (
 				521C71B126923D2500F8C0CE /* QuotesListView.swift */,
 				52506FBF2693158300772CA7 /* QuoteDetailsView.swift */,
+				52C271422693503A00CEE9BE /* QuoteCard.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -199,6 +202,7 @@
 				52506FC02693158300772CA7 /* QuoteDetailsView.swift in Sources */,
 				521C71CA269300DA00F8C0CE /* QuotesModel.swift in Sources */,
 				521C71B026923D2500F8C0CE /* QuotesAppApp.swift in Sources */,
+				52C271432693503A00CEE9BE /* QuoteCard.swift in Sources */,
 				521C71C82692F9D000F8C0CE /* DataService.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
