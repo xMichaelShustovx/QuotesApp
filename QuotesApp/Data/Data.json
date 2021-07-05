@@ -1,0 +1,27 @@
+[
+{
+    "name":"Niccolò Machiavelli",
+    "quotes":["Everyone sees what you appear to be, few experience what you really are.","The lion cannot protect himself from traps, and the fox cannot defend himself from wolves. One must therefore be a fox to recognize traps, and a lion to frighten wolves.","The first method for estimating the intelligence of a ruler is to look at the men he has around him.", "Never was anything great achieved without danger."],
+    "image":"machiavelli"
+},
+{
+    "name":"Friedrich Nietzsche",
+    "quotes":["Without music, life would be a mistake.", "It is not a lack of love, but a lack of friendship that makes unhappy marriages.", "That which does not kill us makes us stronger.", "I'm not upset that you lied to me, I'm upset that from now on I can't believe you."],
+    "image":"nietzsche"
+},
+{
+    "name":"Plato",
+    "quotes":["Wise men speak because they have something to say; fools because they have to say something.", "Every heart sings a song, incomplete, until another heart whispers back. Those who wish to sing always find a song. At the touch of a lover, everyone becomes a poet.", "The price good men pay for indifference to public affairs is to be ruled by evil men.", "I am the wisest man alive, for I know one thing, and that is that I know nothing."],
+    "image":"plato"
+},
+{
+    "name":"Albert Einstein",
+    "quotes":["Strive not to be a success, but rather to be of value.", "Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.", "There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.", "I am enough of an artist to draw freely upon my imagination. Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world.", "Life is like riding a bicycle. To keep your balance, you must keep moving."],
+    "image":"einstein"
+},
+{
+    "name":"Mark Twain",
+    "quotes":["If you tell the truth, you don't have to remember anything.", "Never put off till tomorrow what may be done day after tomorrow just as well.", "′Classic′ - a book which people praise and don't read.", "The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time.", "Keep away from people who try to belittle your ambitions. Small people always do that, but the really great make you feel that you, too, can become great."],
+    "image":"twain"
+}
+]
